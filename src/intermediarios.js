@@ -94,3 +94,4 @@ module.exports = {
     verificarDadosParaTransferencia,
     validarParametrosdeQueryExtrato
 }
+d

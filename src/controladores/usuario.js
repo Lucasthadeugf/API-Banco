@@ -86,3 +86,5 @@ module.exports = {
     atualizarUsuario,
     excluirConta
 }
+
+d
